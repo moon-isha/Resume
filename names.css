@@ -1,0 +1,27 @@
+h1{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+button{
+  border-radius: 10px;
+  border-color: black;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-color:cornsilk;
+  font-weight: bold;
+  margin-left: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+body{
+  background-color: #d4e6f1;
+}
+.para1 {
+  background-color: #a9cce3;
+  box-shadow: 10px;
+  border-color: black;
+}
+h2{
+  background-color: #a9cce3;
+}
